@@ -1,0 +1,8 @@
+100	#	N
+9	#	n	1,4,9
+1e-4	#	d_tau
+500000	#	epochs
+0	#	K	1,5,10
+0	#	omega	3,4,8,... omega =(liczba*pi^2)/2
+250	#	s_psi
+250	#	s_NXEpk

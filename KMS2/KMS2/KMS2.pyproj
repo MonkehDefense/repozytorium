@@ -12,6 +12,9 @@
     <Name>KMS2</Name>
     <RootNamespace>KMS2</RootNamespace>
     <IsWindowsApplication>False</IsWindowsApplication>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <CommandLineArguments>input.txt out_psi09.txt out_pom09.txt out_pk09.dat</CommandLineArguments>
+    <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
